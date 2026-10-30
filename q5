@@ -1,0 +1,1 @@
+gh issue create --title "create helloworld echo file" --body "echo hello pearse from lab6" --assignee "@me" --label "enhancement" --repo "danielrigoni1/lab6"
